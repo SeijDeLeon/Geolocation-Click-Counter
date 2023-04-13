@@ -4,11 +4,13 @@
 <br />
 <div align="center">
 
-</div>
+
 
 <h3 align="center">Click Counter with Geolocation</h3>
-![sample of website with map](https://user-images.githubusercontent.com/55897006/231858986-bc15fc2a-5db2-4a1b-9f61-0f3204e2ace5.png)
 
+
+![sample of website with map](map_screenshot.png)
+</div>
 
 
 <!-- ABOUT THE PROJECT -->
